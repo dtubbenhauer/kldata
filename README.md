@@ -5,9 +5,8 @@ I collected a bit of Python code relevant for the paper *Big data approach to Ka
 
 Here is are two links where to download the data associated to the project (all in .txt files): 
 
-- <a href="http://www.normalesup.org/~lacabanne/kl/KL_polynomials_symmetric_group.html">click</a>. This link is prefered.
-- <a href="https://www.dropbox.com/scl/fo/uwh9nr9fg9sv2egmrph2z/h?rlkey=bmvxgpymlbd3g7p8x2jsm4b2p&e=1&dl=0">click</a>. This link is a backup.
-- The data is also uploaded here.
+- <a href="http://www.normalesup.org/~lacabanne/kl/KL_polynomials_symmetric_group.html">Click</a>. This link is prefered.
+- <a href="https://www.dropbox.com/scl/fo/uwh9nr9fg9sv2egmrph2z/h?rlkey=bmvxgpymlbd3g7p8x2jsm4b2p&e=1&dl=0">Click</a>. This link is a backup.
 
 An Erratum for the paper *Big data approach to Kazhdan--Lusztig polynomials* can be found at the bottom of the page.
 
