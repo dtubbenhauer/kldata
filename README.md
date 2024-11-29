@@ -18,6 +18,15 @@ If you find any errors in the paper *Big data approach to Kazhdan&#8211;Lusztig 
 
 Same goes for any errors related to this page.
 
+
+# Google colab
+
+The notebook is here:
+
+<a href="https://colab.research.google.com/drive/1obJGlFBARVre8HukxnGrG4s13trZI-Yb?usp=sharing">https://colab.research.google.com/drive/1obJGlFBARVre8HukxnGrG4s13trZI-Yb?usp=sharing</a>
+
+All the code in that notebook will run after uploading the .txt files. It is explained in the notebook what is needed and done, but we also give some details here.
+
 # Erratum
 
 Empty so far.
