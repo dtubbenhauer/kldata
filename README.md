@@ -40,7 +40,7 @@ All of the files run in html. You will get something like:
 
 One can change the resolution in the Google Colab notebook to create higher resolution plots such as:
 
-<div style="text-align: center"><img src="https://github.com/dtubbenhauer/kldata/blob/main/highres.png" width="800" height="800" style="border: 0px;" /></div>
+<div style="text-align: center"><img src="https://github.com/dtubbenhauer/kldata/blob/main/highres.png" width="800" height="800" style="border: 0px;" /></div><div style="text-align: center"><img src="https://github.com/dtubbenhauer/kldata/blob/main/highres2.png" width="800" height="800" style="border: 0px;" /></div>
 
 # Random polynomials
 
