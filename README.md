@@ -1,7 +1,7 @@
 # Code and Erratum for *Big data approach to Kazhdan&#8211;Lusztig polynomials*
 
 I collected a bit of Python code relevant for the paper *Big data approach to Kazhdan&#8211;Lusztig polynomials*
-<a href="https://arxiv.org/abs/2409.01005">https://arxiv.org/abs/2409.01005</a> on this page. In 2024, the code runs in <a href="https://colab.google/">Google Colab</a>.
+<a href="https://arxiv.org/abs/2412.01283">https://arxiv.org/abs/2412.01283</a> on this page. In 2024, the code runs in <a href="https://colab.google/">Google Colab</a>.
 
 Here is are two links where to download the data associated to the project (all in .txt files): 
 
