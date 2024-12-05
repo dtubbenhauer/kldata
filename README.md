@@ -18,7 +18,7 @@ If you find any errors in the paper *Big data approach to Kazhdan&#8211;Lusztig 
 
 Same goes for any errors related to this page.
 
-# Limits of computation
+# Direct data access and limits of computation
 
 Before we get started, let us say what was actually computed. We done by $S_n$ the symmetric group on $\{1,\dots,n\}$ of size $n!$. We write KL instead Kazhdan&#8211;Lusztig of for short. 
 The KL polynomials take two permutations from $S_n$ as entries so there are $(n!)^2$ many. Fixing the first entry to be the identity permutation (as we did below), we are thus left with $n!$ KL polynomials.
@@ -29,6 +29,8 @@ In both cases, everything grows very fast in $n$, and we only look at the last c
 - We also computed one polynomial for $n=13$, and its list of coefficients is $$1,30,433,3994,26119,127617,481228,1431090,3404124,6529693,10129212,12681891,12724552,10099918,6218204,2889956,978297,229796,34889,3014,118,1.$$ The computation took around 60 days.
 
 This makes us believe that, without extra ideas, this is probably the end of the computation. In the first case, the output file will be very large and potentially unmanageable. The second case, as one can expect some KL polynomials to take several hours to compute, but there are $479001600$ many KL polynomials.
+
+The data for $n=10$ can be directly obtained interactively here: <a href="https://www.dtubbenhauer.com/kldata2.html">https://www.dtubbenhauer.com/kldata2.html</a>.
 
 # Google Colab notebook
 
